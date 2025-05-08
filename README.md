@@ -76,12 +76,6 @@ or open the `.pbix` file in Power BI Desktop to interact with the dashboard and 
 * Key Insights:  Identifies provinces with potential for attracting more foreign visitors and provinces where accommodation supply might not be meeting demand. 
 
 
-## Related Projects
-
-* Automated Data Acquisition with Python and SQL:  https://github.com/toeye/Tourism_Data_Analysis/tree/main/Get%20data%20from%20BOT%20API
-* Data Transformation and Exploration with Power Query and SQL:  https://github.com/toeye/Tourism_Data_Analysis/tree/main/Transform%20and%20Explore%20Data%20from%20MOTS
-
-
 ##  Further Exploration
 
 For a detailed walkthrough of the analysis and insights, check out my Medium post: https://medium.com/@toeyetoeyetoeye/from-data-to-insights-analyzing-thailands-tourism-industry-with-power-bi-7edef515ad8c
